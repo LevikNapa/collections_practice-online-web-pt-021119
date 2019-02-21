@@ -28,7 +28,11 @@ def reverse_array(array)
   array.reverse
 end
 
-def 
+def kesha_maker(array)
+  new_array = []
+  array.each do |name|
+    
+  end
   
 end
 
