@@ -30,9 +30,9 @@ end
 
 def kesha_maker(array)
   new_array = []
-  array.each do |name|
+  array.each do |letter|
     
-  end
+    end
   
 end
 
